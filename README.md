@@ -9,4 +9,4 @@ KubeJS scripts created to balance and automate processes of servers using that u
 
 ## How to use
 * Download **[KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs/)** and install it in your server
-* Put any of these scripts inside 'server-scripts' in the kubejs directory on the server folder
+* Put any of these scripts inside **'server-scripts'** in the kubejs directory on the server folder
